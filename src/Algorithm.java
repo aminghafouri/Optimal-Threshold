@@ -202,8 +202,8 @@ class Algorithm {
 
 		long startTime = System.nanoTime();
 		for (double P : SearchSpace) {
-			if (P < 239.0)
-				continue;
+			//if (P < 239.0)
+			//	continue;
 			System.out.println("P: " + P);
 
 			if (P >= max && TC > P) {
