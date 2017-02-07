@@ -199,8 +199,8 @@ class Algorithm {
 		Double TC = Double.POSITIVE_INFINITY;
 		Double Ps = Double.POSITIVE_INFINITY;
 		
-		//double P=216.0;
-/*		long startTime = System.nanoTime();
+
+		long startTime = System.nanoTime();
 		for (double P : SearchSpace) {
 			if (P < 239.0)
 				continue;
@@ -220,7 +220,7 @@ class Algorithm {
 		long endTime = System.nanoTime();
 		System.out.println("Took "+(endTime - startTime)/1000000000.0 + " s");
 	
-	 */
+	 
 		
 		Ps = 240.0;
 		costs.clear();
