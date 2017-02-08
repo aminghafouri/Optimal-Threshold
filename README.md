@@ -5,7 +5,7 @@ Using a game-theoretic setup, we study the problem of finding optimal detection 
 
 This project implements a dynamic programming-based algorithm that computes optimal time-dependent thresholds. As a case study, we consider detecting contamination attacks in a real water network.
 
-## Related Publications:
+## Related Publications
 Amin Ghafouri, Waseem Abbas, Aron Laszka, Yevgeniy Vorobeychik, and Xenofon Koutsoukos, “Optimal Thresholds for Anomaly-Based Intrusion Detection in Dynamical Environments.” *2016 Conference on Decision and Game Theory for Security (GameSec 2016)*, New York, NY, Nov. 2 – 4, 2016.
 
 Amin Ghafouri, Aron Laszka, Waseem Abbas, Yevgeniy Vorobeychik, and Xenofon Koutsoukos, “A Game-Theoretic Approach for Selecting Optimal Thresholds for Attack Detection in Dynamical Environments.” *Submitted to the IEEE Transactions on Systems, Man, and Cybernetics: Systems*.
